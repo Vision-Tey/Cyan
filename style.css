@@ -137,6 +137,7 @@ ul li a:hover{
     font-size: 30px;
 }
 footer{
+    margin-bottom: 0;
     background-color: rgb(182, 175, 158);
 }
 .Intro button{
